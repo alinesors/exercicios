@@ -1,3 +1,10 @@
+/*Faça um programa em C que receba 3 números
+inteiros e retorne:
+ O maior dos 3;
+ O menor dos 3;
+ Quais são positivos e quais são negativos;
+ Quais são pares e quais são ímpares.*/
+
 #include <stdio.h>
 
 int main(){
