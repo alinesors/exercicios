@@ -10,4 +10,6 @@ int main(){
     soma = n1 + n2 + n3;
 
     printf("A soma é: %d", soma);
+
+    return 0;
 }
